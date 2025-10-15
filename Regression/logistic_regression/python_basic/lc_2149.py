@@ -1,3 +1,5 @@
+#this will give us one postive and one negative numbers in array
+# 
 nums = [3,1,-2,-5,2,-4]
 
 length = len(nums)
