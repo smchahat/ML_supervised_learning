@@ -18,3 +18,4 @@ for k in range(length):
 
         
 print(res)
+#one +ve and one -ve
