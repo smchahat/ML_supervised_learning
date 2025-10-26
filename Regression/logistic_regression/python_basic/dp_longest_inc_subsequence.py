@@ -8,5 +8,5 @@ for i in range(length - 2, -1,-1):
     for j in range(i, length-1):
         if nums[i] < nums[j+1]:
             l[i] = max(l[i], 1 +l[j+1])
-
+#comment
 print(max(l))
