@@ -7,3 +7,4 @@ if 1 > neg:
     print("yes")
 
 #output - yes
+#infinity
