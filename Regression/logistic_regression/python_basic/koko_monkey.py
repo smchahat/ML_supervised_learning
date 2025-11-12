@@ -16,3 +16,5 @@ while True:
         st = mid
     elif i < h:
         m = mid
+    else:
+        pass
