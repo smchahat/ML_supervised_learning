@@ -13,3 +13,4 @@ for i in range(len(arr)):
             arr[i][j], arr[j][i] =  arr[j][i], arr[i][j]
 
 print("aa")
+print(arr)
